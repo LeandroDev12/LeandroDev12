@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev Leandro 😁
+## Bem-vindo(a) ao perfil do Leandro 😁
 
  <div>
    <a href="https://github.com/LeandroDev12">
