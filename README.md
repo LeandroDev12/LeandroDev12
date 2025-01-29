@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Leandro 😁
 
  <div>
-   <a href="https://github.com/Leandro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/leandro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
